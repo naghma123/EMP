@@ -1,6 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <body>
+<link rel="stylesheet" href="bootstrap.css"></link>
 <table width="500" border="2" align="center" cellpadding="0" cellspacing="1" 
 <tr>
   <h1><center>Employee Management</center></h1>
@@ -30,7 +31,7 @@
 </form>
 </tr>
 </table>                        
-         <div align="center">;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+         <div align="center">
 			 <a href="forgot_pass.php">Forgot Password</a> 
 		</div> 
 		<div align="center">

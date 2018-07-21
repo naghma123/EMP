@@ -1,6 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 	<body style="margin:0">
+	<link rel="stylesheet" href="bootstrap.css"></link>
 	<table width="100%" height="100%" cellpadding="0" cellspacing="1">
 	  <tr width="200" height="100" >
 	     <td colspan="2">
